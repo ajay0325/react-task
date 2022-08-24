@@ -1,0 +1,21 @@
+.container{
+  width: 80%;
+  margin: auto;
+}
+header{
+  background-color: red;
+}
+.headerwrapper{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+}
+.logo{
+  color: white;
+}
+.navi{
+  text-decoration: none;
+  margin-right: 40px;
+  color: white;
+}
